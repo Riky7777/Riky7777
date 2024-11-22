@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Riky7777
-- 👀 I’m interested in Physics
+- 👀 I’m interested in Biomedical Physics
 - 🌱 I’m currently learning some basis of c++ and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
