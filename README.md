@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riky7777
 - 👀 I’m interested in Biomedical Physics
-- 🌱 I’m currently learning some basics of c++ and python
+- 🌱 I’m currently learning some basics of c++, python and ROOT
 - 📫 How to reach me s.scotti.riccardo@gmail.com 
 
 <!---
